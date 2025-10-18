@@ -2,7 +2,12 @@
 
 ###
 
-<h5 align="left">- 🔭 Atualmente trabalho como desenvolvedor full-stack;<br>- 🌱 Estudando Java e AWS;</h5>
+<h5 align="left">- 🔭 Atualmente trabalho como desenvolvedor full-stack;
+  <br>
+  - 🌱 Estudo e desenvolvo com Java e Spring Boot;
+   <br>
+  - 🌱 Gosto de compartilhar conhecimento e receber feedbacks construtivos sobre meus projeto;
+</h5>
 
 ###
 ---
